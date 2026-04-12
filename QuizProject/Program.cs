@@ -9,19 +9,19 @@
             while (running)
             {
                 MenuPrinter.PrintMainMenu();
-                string choice = Console.ReadLine();
+
+                int choice = InputValidator.GetValidInteger("\nSelect an option: ", 0, 8);
 
                 switch (choice)
                 {
-                    case "1":
-                        // QuizEngine.StartNormalQuiz();
+                    case 1: 
                         MenuPrinter.PrintMessage("Quiz starting soon...", ConsoleColor.Yellow);
                         break;
-                    case "4":
-                        // QuestionManager.AddNewQuestion();
+                    case 4:
+
                         MenuPrinter.PrintMessage("Admin mode: Adding question...", ConsoleColor.Green);
                         break;
-                    case "0":
+                    case 0:
                         running = false;
                         Console.WriteLine("Exiting... Goodbye!");
                         break;
