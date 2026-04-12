@@ -4,17 +4,14 @@ using System.Text;
 
 namespace QuizProject.Service
 {
-    public static class QuizEngine
+    public class QuizEngine : IQuizService
     {
-        public static void StartQuiz()
+        public void StartQuiz()
         {
             MenuPrinter.PrintHeader();
-
-     
             var questions = GetSampleQuestions();
             int correctCount = 0;
 
-            // 2. Oyun döngüsü
             for (int i = 0; i < questions.Count; i++)
             {
                 Console.Clear();
@@ -30,7 +27,6 @@ namespace QuizProject.Service
                     Console.WriteLine($"{j + 1}. {q.Options[j]}");
                 }
 
-                
                 int userAnswer = InputValidator.GetValidInteger("\nYour answer: ", 1, q.Options.Length);
 
                 if (userAnswer == q.CorrectAnswerIndex + 1)
@@ -50,11 +46,10 @@ namespace QuizProject.Service
                 Console.ReadKey();
             }
 
-            
-            ShowFinalResult(correctCount, questions.Count);
+            ShowResult(correctCount, questions.Count);
         }
 
-        private static void ShowFinalResult(int correct, int total)
+        public void ShowResult(int correct, int total)
         {
             double percentage = (double)correct / total * 100;
             Console.Clear();
@@ -71,8 +66,7 @@ namespace QuizProject.Service
             MenuPrinter.PrintMessage("Returning to main menu...", ConsoleColor.Cyan);
         }
 
-        
-        private static List<dynamic> GetSampleQuestions()
+        private List<dynamic> GetSampleQuestions()
         {
             return new List<dynamic>
             {

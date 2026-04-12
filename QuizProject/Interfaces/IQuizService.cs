@@ -4,7 +4,10 @@ using System.Text;
 
 namespace QuizProject.Interfaces
 {
-    internal class IQuizService
+    public interface IQuizService
     {
+        void StartQuiz();
+
+        void ShowResult(int correctAnswers, int totalQuestions);
     }
 }

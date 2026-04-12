@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            QuizEngine engine = new QuizEngine();
+
             bool running = true;
 
             while (running)
@@ -14,11 +16,10 @@
 
                 switch (choice)
                 {
-                    case 1: 
-                        MenuPrinter.PrintMessage("Quiz starting soon...", ConsoleColor.Yellow);
+                    case 1:
+                        engine.StartQuiz();
                         break;
                     case 4:
-
                         MenuPrinter.PrintMessage("Admin mode: Adding question...", ConsoleColor.Green);
                         break;
                     case 0:
