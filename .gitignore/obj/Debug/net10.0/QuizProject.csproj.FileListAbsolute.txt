@@ -1,5 +1,0 @@
-C:\Users\Nicat\OneDrive\Desktop\QuizWork\QuizProjectMain\QuizProject\obj\Debug\net10.0\QuizProject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nicat\OneDrive\Desktop\QuizWork\QuizProjectMain\QuizProject\obj\Debug\net10.0\QuizProject.AssemblyInfoInputs.cache
-C:\Users\Nicat\OneDrive\Desktop\QuizWork\QuizProjectMain\QuizProject\obj\Debug\net10.0\QuizProject.AssemblyInfo.cs
-C:\Users\Nicat\OneDrive\Desktop\QuizWork\QuizProjectMain\QuizProject\obj\Debug\net10.0\QuizProject.csproj.CoreCompileInputs.cache
-C:\Users\Nicat\OneDrive\Desktop\QuizWork\QuizProjectMain\QuizProject\obj\Debug\net10.0\QuizProject.sourcelink.json
