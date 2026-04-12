@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\QuizProject.csproj": {}
+    "C:\\Users\\Nicat\\OneDrive\\Desktop\\QuizWork\\QuizProjectMain\\QuizProject\\QuizProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\QuizProject.csproj": {
+    "C:\\Users\\Nicat\\OneDrive\\Desktop\\QuizWork\\QuizProjectMain\\QuizProject\\QuizProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\QuizProject.csproj",
+        "projectUniqueName": "C:\\Users\\Nicat\\OneDrive\\Desktop\\QuizWork\\QuizProjectMain\\QuizProject\\QuizProject.csproj",
         "projectName": "QuizProject",
-        "projectPath": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\QuizProject.csproj",
-        "packagesPath": "C:\\Users\\Victus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\obj\\",
+        "projectPath": "C:\\Users\\Nicat\\OneDrive\\Desktop\\QuizWork\\QuizProjectMain\\QuizProject\\QuizProject.csproj",
+        "packagesPath": "C:\\Users\\Nicat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicat\\OneDrive\\Desktop\\QuizWork\\QuizProjectMain\\QuizProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Victus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nicat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +25,7 @@
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net10.0": {
