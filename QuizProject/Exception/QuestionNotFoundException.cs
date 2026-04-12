@@ -4,7 +4,8 @@ using System.Text;
 
 namespace QuizProject.Exception
 {
-    internal class QuestionNotFoundException
+    public class QuestionNotFoundException : System.Exception
     {
+        public QuestionNotFoundException(string message) : base (message) { }
     }
 }

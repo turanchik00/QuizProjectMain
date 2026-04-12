@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\QuizProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\exception\\invalidanswerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\exception\\invalidanswerexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\exception\\questionnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\exception\\questionnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\data\\history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\data\\history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\interfaces\\iquestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\models\\multiplechoicequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\models\\multiplechoicequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\service\\questionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\service\\questionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\data\\jsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\data\\jsoncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\enum\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\enum\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|c:\\users\\victus\\source\\repos\\quizproject\\quizproject\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C64AB16-15F9-FD16-81FE-5D9FEAF6F3B1}|QuizProject\\QuizProject.csproj|solutionrelative:quizproject\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvalidAnswerException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Exception\\InvalidAnswerException.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Exception\\InvalidAnswerException.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Exception\\InvalidAnswerException.cs",
+              "RelativeToolTip": "QuizProject\\Exception\\InvalidAnswerException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:57:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Exception\\QuestionNotFoundException.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Exception\\QuestionNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Exception\\QuestionNotFoundException.cs",
+              "RelativeToolTip": "QuizProject\\Exception\\QuestionNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:57:52.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IQuestionService.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Interfaces\\IQuestionService.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Interfaces\\IQuestionService.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Interfaces\\IQuestionService.cs",
+              "RelativeToolTip": "QuizProject\\Interfaces\\IQuestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:57:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultipleChoiceQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\MultipleChoiceQuestion.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Models\\MultipleChoiceQuestion.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\MultipleChoiceQuestion.cs",
+              "RelativeToolTip": "QuizProject\\Models\\MultipleChoiceQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:56:52.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuestionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Service\\QuestionManager.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Service\\QuestionManager.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Service\\QuestionManager.cs",
+              "RelativeToolTip": "QuizProject\\Service\\QuestionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:54:57.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "history.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\history.json",
+              "RelativeDocumentMoniker": "QuizProject\\Data\\history.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\history.json",
+              "RelativeToolTip": "QuizProject\\Data\\history.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T18:53:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "questions.json",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\questions.json",
+              "RelativeDocumentMoniker": "QuizProject\\Data\\questions.json",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\questions.json",
+              "RelativeToolTip": "QuizProject\\Data\\questions.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T18:53:22.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonContext.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\JsonContext.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Data\\JsonContext.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Data\\JsonContext.cs",
+              "RelativeToolTip": "QuizProject\\Data\\JsonContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:53:15.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Enum\\Difficulty.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Enum\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Enum\\Difficulty.cs",
+              "RelativeToolTip": "QuizProject\\Enum\\Difficulty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:53:03.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Models\\Score.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\Score.cs",
+              "RelativeToolTip": "QuizProject\\Models\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:50:32.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "QuizProject\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\QuizProject\\QuizProject\\Models\\Question.cs",
+              "RelativeToolTip": "QuizProject\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:50:14.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

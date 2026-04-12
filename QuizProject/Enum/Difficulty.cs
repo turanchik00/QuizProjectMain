@@ -4,7 +4,10 @@ using System.Text;
 
 namespace QuizProject.Enum
 {
-    internal class Difficulty
+    public enum Difficulty
     {
+        Easy = 1,
+        Medium = 2,
+        Hard = 3
     }
 }

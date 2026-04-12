@@ -4,8 +4,8 @@ using System.Text;
 
 namespace QuizProject.Exception
 {
-    internal class InvalidAnswerException
+    public class InvalidAnswerException : System.Exception
     {
-
+        public InvalidAnswerException(string message) : base(message) { }
     }
 }
