@@ -1,9 +1,5 @@
 # 🎯 QuizProjectMain
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/yourrepo)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/yourrepo)
-
 > 🧠 Simple və effektiv Quiz tətbiqi (Console App)  
 > 🎮 Məqsəd: istifadəçinin biliklərini test etmək və score sistemi ilə nəticəni göstərmək
 
