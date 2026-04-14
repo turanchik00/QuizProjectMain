@@ -7,7 +7,7 @@
 
 ## 📸 Preview
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Quiz+App+Preview)
+![App Screenshot]([https://via.placeholder.com/800x400.png?text=Quiz+App+Preview](https://prnt.sc/CLJdGZ1OcgSB))
 
 ---
 
