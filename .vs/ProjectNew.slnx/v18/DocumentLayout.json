@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\ui\\menu\\menunavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\ui\\menu\\menunavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\ui\\theming\\themeregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\ui\\theming\\themeregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\services\\quizengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\services\\quizengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\ui\\showmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\ui\\showmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|c:\\users\\classtime\\desktop\\projectnewlatest\\projectnew\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40EA95B-469E-F1D9-40FF-CAA6B42D1013}|ProjectNew\\ProjectNew.csproj|solutionrelative:projectnew\\ui\\consoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemeRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\Theming\\ThemeRegistry.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\UI\\Theming\\ThemeRegistry.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\Theming\\ThemeRegistry.cs",
+              "RelativeToolTip": "ProjectNew\\UI\\Theming\\ThemeRegistry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:56:06.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizEngine.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\Services\\QuizEngine.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\Services\\QuizEngine.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\Services\\QuizEngine.cs",
+              "RelativeToolTip": "ProjectNew\\Services\\QuizEngine.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAjwHgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:35:44.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuNavigator.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\Menu\\MenuNavigator.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\UI\\Menu\\MenuNavigator.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\Menu\\MenuNavigator.cs",
+              "RelativeToolTip": "ProjectNew\\UI\\Menu\\MenuNavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:27:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\ShowMenu.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\UI\\ShowMenu.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\ShowMenu.cs",
+              "RelativeToolTip": "ProjectNew\\UI\\ShowMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:24:21.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleUi.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\ConsoleUi.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\UI\\ConsoleUi.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\UI\\ConsoleUi.cs",
+              "RelativeToolTip": "ProjectNew\\UI\\ConsoleUi.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:18:17.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectNew\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\ProjectNewLatest\\ProjectNew\\Program.cs",
+              "RelativeToolTip": "ProjectNew\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T04:46:04.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

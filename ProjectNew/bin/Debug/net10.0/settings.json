@@ -1,0 +1,8 @@
+{
+  "EnableAnimations": true,
+  "EnableSound": true,
+  "EnableCinematicTransitions": true,
+  "AnimationDelayMs": 4,
+  "ClearBetweenQuestions": true,
+  "Theme": "Matrix"
+}

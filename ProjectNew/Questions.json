@@ -1,0 +1,212 @@
+[
+  {
+    "Id": 1,
+    "Text": "Günün ilk yeməyi nə adlanır?",
+    "Options": [ "Səhər yeməyi", "Nahar", "Desert", "Şam yeməyi" ],
+    "CorrectOptionIndex": 0,
+    "Difficulty": 1
+  },
+  {
+    "Id": 2,
+    "Text": "İnsan gündə orta neçə saat yatmalıdır?",
+    "Options": [ "4 saat", "7-8 saat", "12 saat", "2 saat" ],
+    "CorrectOptionIndex": 1,
+    "Difficulty": 1
+  },
+  {
+    "Id": 3,
+    "Text": "Su hansı halda donur?",
+    "Options": [ "50°C", "-100°C", "100°C", "0°C" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 1
+  },
+  {
+    "Id": 4,
+    "Text": "Telefonun əsas funksiyası nədir?",
+    "Options": [ "Qaçmaq", "Yatmaq", "Ünsiyyət qurmaq", "Yemək bişirmək" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 1
+  },
+  {
+    "Id": 5,
+    "Text": "Hansı heyvan uça bilir?",
+    "Options": [ "İt", "Pişik", "İnək", "Quş" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 1
+  },
+  {
+    "Id": 6,
+    "Text": "Həftədə neçə gün var?",
+    "Options": [ "7", "5", "8", "6" ],
+    "CorrectOptionIndex": 0,
+    "Difficulty": 1
+  },
+  {
+    "Id": 7,
+    "Text": "İnsan bədəni üçün vacib maye hansıdır?",
+    "Options": [ "Kofe", "Yağ", "Su", "Cola" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 1
+  },
+  {
+    "Id": 8,
+    "Text": "Hansı rəng göy üzünü xatırladır?",
+    "Options": [ "Qırmızı", "Sarı", "Mavi", "Qara" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 1
+  },
+  {
+    "Id": 9,
+    "Text": "Məktəbə getmək nə üçündür?",
+    "Options": [ "Oyun oynamaq", "Qaçmaq", "Yatmaq", "Oxumaq və öyrənmək" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 1
+  },
+  {
+    "Id": 10,
+    "Text": "İnsan neçə gözü var?",
+    "Options": [ "3", "4", "2", "1" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 1
+  },
+  {
+    "Id": 11,
+    "Text": "Pul yığmaq üçün ən düzgün üsul hansıdır?",
+    "Options": [ "Borc almaq", "İtirmək", "Qənaət etmək və plan qurmaq", "Hamısını xərcləmək" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 12,
+    "Text": "Stressi azaltmaq üçün nə etmək olar?",
+    "Options": [ "Yatmadan qalmaq", "İdman və istirahət etmək", "Daha çox stress yaratmaq", "Heç nə etməmək" ],
+    "CorrectOptionIndex": 1,
+    "Difficulty": 2
+  },
+  {
+    "Id": 13,
+    "Text": "Sağlam qidalanma nə deməkdir?",
+    "Options": [ "Şirniyyatla qidalanmaq", "Heç yeməmək", "Balanslı və müxtəlif qidalar yemək", "Yalnız fast food yemək" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 14,
+    "Text": "Vaxtı düzgün idarə etmək nə verir?",
+    "Options": [ "Yorulmaq", "Vaxt itirmək", "Daha effektiv olmaq", "Daha az iş görmək" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 15,
+    "Text": "İnternetdən düzgün istifadə nədir?",
+    "Options": [ "Spam etmək", "Hər xəbərə inanmaq", "Şayiə yaymaq", "Mənbələri yoxlamaq" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 2
+  },
+  {
+    "Id": 16,
+    "Text": "Dostluqda ən vacib şey nədir?",
+    "Options": [ "Qalmaqal", "Pul", "Güvən və hörmət", "Hədiyyə" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 17,
+    "Text": "İş müsahibəsində vacib olan nədir?",
+    "Options": [ "Yalan danışmaq", "Səssiz qalmaq", "Gecikmək", "Hazırlıqlı olmaq" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 2
+  },
+  {
+    "Id": 18,
+    "Text": "İdmanın faydası nədir?",
+    "Options": [ "Heç bir faydası yoxdur", "Yorğunluq yaradır yalnız", "Sağlamlığı yaxşılaşdırır", "Sağlamlığı pisləşdirir" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 19,
+    "Text": "Kitab oxumaq nəyi artırır?",
+    "Options": [ "Pul", "Yorğunluq", "Zəiflik", "Bilik və düşüncə qabiliyyəti" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 2
+  },
+  {
+    "Id": 20,
+    "Text": "Sosial mediada təhlükəsiz olmaq üçün nə etməli?",
+    "Options": [ "Hər linkə klikləmək", "Şifrələri paylaşmaq", "Güclü parol istifadə etmək", "Hər kəsə inanmaq" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 2
+  },
+  {
+    "Id": 21,
+    "Text": "Uzunmüddətli uğur üçün hansı daha vacibdir?",
+    "Options": [ "Təsadüf", "Şans", "Qorxu", "Davamlılıq və intizam" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 3
+  },
+  {
+    "Id": 22,
+    "Text": "Kritik düşüncə nə deməkdir?",
+    "Options": [ "Düşünməmək", "Məlumatı analiz edib qiymətləndirmək", "Hər şeyi qəbul etmək", "Yalan danışmaq" ],
+    "CorrectOptionIndex": 1,
+    "Difficulty": 3
+  },
+  {
+    "Id": 23,
+    "Text": "Maliyyə azadlığı nədir?",
+    "Options": [ "Pul xərcləmək", "Borclu olmaq", "Kredit götürmək", "Gəlirlərin xərcləri qarşılaması və qənaət" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 3
+  },
+  {
+    "Id": 24,
+    "Text": "Vaxtın dəyərini artırmaq üçün nə etmək lazımdır?",
+    "Options": [ "Vaxtı itirmək", "Gecikmək", "Prioritetləri düzgün seçmək", "Plansız yaşamaq" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 3
+  },
+  {
+    "Id": 25,
+    "Text": "Liderlik nə tələb edir?",
+    "Options": [ "Dinləməmək", "Qaçmaq", "Komanda ilə işləmək və məsuliyyət almaq", "Tək qərar vermək" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 3
+  },
+  {
+    "Id": 26,
+    "Text": "Risk idarəetməsi nədir?",
+    "Options": [ "Hər şeyə risk etmək", "Riskləri analiz edib idarə etmək", "Heç risk etməmək", "Riskləri görməzdən gəlmək" ],
+    "CorrectOptionIndex": 1,
+    "Difficulty": 3
+  },
+  {
+    "Id": 27,
+    "Text": "Effektiv ünsiyyət nədir?",
+    "Options": [ "Susmaq", "Qışqırmaq", "Aydın və qarşılıqlı anlaşma yaratmaq", "Danışmamaq" ],
+    "CorrectOptionIndex": 2,
+    "Difficulty": 3
+  },
+  {
+    "Id": 28,
+    "Text": "Özünü inkişaf etdirmək üçün nə lazımdır?",
+    "Options": [ "Dayanmaq", "Tənbəllik", "Yerində saymaq", "Daim öyrənmək və inkişaf etmək" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 3
+  },
+  {
+    "Id": 29,
+    "Text": "Problemi həll etməyin ilk addımı nədir?",
+    "Options": [ "Başqasını günahlandırmaq", "Problemi düzgün anlamaq", "Qaçmaq", "Gözləmək" ],
+    "CorrectOptionIndex": 1,
+    "Difficulty": 3
+  },
+  {
+    "Id": 30,
+    "Text": "Uğursuzluğa düzgün yanaşma nədir?",
+    "Options": [ "Unutmaq", "Qaçmaq", "Təslim olmaq", "Ondan dərs çıxarmaq" ],
+    "CorrectOptionIndex": 3,
+    "Difficulty": 3
+  }
+]
