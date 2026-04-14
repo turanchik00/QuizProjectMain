@@ -1,3 +1,4 @@
+
 # 🎯 QuizProjectMain
 
 > 🧠 Simple və effektiv Quiz tətbiqi (Console App)  
@@ -7,7 +8,7 @@
 
 ## 📸 Preview
 
-![App Screenshot]([https://via.placeholder.com/800x400.png?text=Quiz+App+Preview](https://prnt.sc/CLJdGZ1OcgSB))
+<img width="961" height="468" alt="Annotation 2026-04-14 112122" src="https://github.com/user-attachments/assets/82602513-1bb0-4388-bcdd-c0cdfff57e23" />
 
 ---
 
